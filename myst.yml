@@ -1,0 +1,14 @@
+version: 1
+
+project:
+  title: "1CV40: Reliability and Quality Engineering"
+  description: "Supplementary notes for the course 1CV40 reliability and quality control"
+  toc:
+    - file: Introduction.md
+    - file: Course outline.md
+    - title: Week 1
+      children:
+        - file: The failure process.md
+
+site:
+  template: book-theme
