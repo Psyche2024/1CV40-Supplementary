@@ -5,10 +5,10 @@ project:
   description: "Supplementary notes for the course 1CV40 reliability and quality control"
   toc:
     - file: Introduction.md
-    - file: Course outline.md
+    - file: Course_outline.md
     - title: Week 1
       children:
-        - file: The failure process.md
+        - file: The_failure_process.md
 
 site:
   template: book-theme
