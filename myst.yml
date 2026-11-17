@@ -9,6 +9,8 @@ project:
     - title: Week 1
       children:
         - file: The_failure_process.md
+        - file: Measures_of_central_tendency_and_variance.md
+        - file: Constant_failure_rate_models.md
 
 site:
   template: book-theme

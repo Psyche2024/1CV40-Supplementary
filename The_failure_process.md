@@ -56,7 +56,7 @@ $$
 - The hazard rate tells us <u>how risky it is</u> for a component that has survived until now <u>to fail next</u>. It is conditional on survival until $t$, and is an instantaneous failure risk.
 </aside>
 
-# Other failure rates:
+# Other failure rates
 
 - **The Cumulative Failure Rates (CFR)**
     
